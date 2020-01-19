@@ -1,5 +1,5 @@
 # Front-end-eindversie
-Dit is de laatste versie van mijn front-end pagina
+Dit is de laatste versie van mijn front-end website
 
 Gebruikte bronnen: 
 
