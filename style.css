@@ -549,7 +549,7 @@ legend {
 }
 
 .footer{
-	margin-top: -100px;
+	margin-top: -50px;
 	
 }
 
@@ -641,7 +641,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion
 }
 
 @media (prefers-reduced-motion:reduce) {
-	article {
+	article, section {
 		animation: none;
 		color: black;
 	}
